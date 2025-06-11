@@ -1,0 +1,13 @@
+import random 
+target = random.randint(1,100)
+while True:
+    user_choice = int(input("Guess the Target or Quit:"))
+    if (user_choice==Quit):
+        break
+    if (user_choice == target):
+        print("CORRECT GUESS!!")
+    elif (user_choice <= target):
+        print("take a bigger guess... your number is too small")
+    else:            
+         print("take a smaller guess... your number is too bigger")
+print("---GAME OVER---")         
