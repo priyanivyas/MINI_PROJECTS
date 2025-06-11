@@ -4,6 +4,7 @@ while True:
     user_choice = int(input("Guess the Target or Quit:"))
     if (user_choice==Quit):
         break
+    user_choice = int(user_choice)
     if (user_choice == target):
         print("CORRECT GUESS!!")
     elif (user_choice <= target):
