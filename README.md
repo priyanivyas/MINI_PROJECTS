@@ -68,7 +68,7 @@ This is part of my journey learning Python. Feedback welcome!
 *P.S. - Yes, I know there are probably a million password generators out there, but building your own stuff is half the fun of programming, right?*
 
 
-# 2) Guess the Number
+#2) Guess the Number
 
 Just a simple number guessing game I threw together while learning Python. Nothing fancy, but it works!
 
@@ -79,7 +79,6 @@ The computer picks a random number between 1 and 100, and you try to guess it. T
 ## How to run it
 
 Make sure you have Python installed, then just run:
-
 ```bash
 python guess_the_number.py
 ```
@@ -106,14 +105,8 @@ CORRECT GUESS!!
 ---GAME OVER---
 ```
 
-## Known issues
-
-Yeah, there's a small bug with the quit function - working on fixing that. The game logic itself works fine though.
-
 ## Why I made this
 
-Started learning Python recently and wanted to practice basic stuff like loops, conditionals, and user input. This seemed like a good first project to get my feet wet.
+Started learning Python recently and wanted to practice basic stuff like loops, conditionals, and user input. This seemed like a good project to get my feet wet.
 
-Feel free to fork it or suggest improvements if you want. Still figuring out this whole coding thing!
-
-
+Feel free to fork it or suggest improvements if you want. 
