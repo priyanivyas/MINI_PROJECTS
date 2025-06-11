@@ -1,6 +1,6 @@
 # 1) Random Password Generator 🔐
 
-Hey there! This is my first mini project - a simple password generator that I built while learning Python. Nothing fancy, but it gets the job done!
+Hey there! This is my mini project - a simple password generator that I built while learning Python. Nothing fancy, but it gets the job done!
 
 ## What it does
 
@@ -68,7 +68,8 @@ This is part of my journey learning Python. Feedback welcome!
 *P.S. - Yes, I know there are probably a million password generators out there, but building your own stuff is half the fun of programming, right?*
 
 
-#2) Guess the Number
+
+# 2) **Guess the Number**
 
 Just a simple number guessing game I threw together while learning Python. Nothing fancy, but it works!
 
@@ -107,6 +108,6 @@ CORRECT GUESS!!
 
 ## Why I made this
 
-Started learning Python recently and wanted to practice basic stuff like loops, conditionals, and user input. This seemed like a good project to get my feet wet.
+Started learning Python recently and wanted to practice basic stuff like loops, conditionals, and user input. This seemed like a good first project to get my feet wet.
 
 Feel free to fork it or suggest improvements if you want. 
