@@ -65,6 +65,8 @@ python password_generator.py
 
 This is part of my journey learning Python. Feedback welcome! 
 
+*P.S. - Yes, I know there are probably a million password generators out there, but building your own stuff is half the fun of programming, right?*
+
 
 # 2) Guess the Number
 
@@ -114,4 +116,4 @@ Started learning Python recently and wanted to practice basic stuff like loops, 
 
 Feel free to fork it or suggest improvements if you want. Still figuring out this whole coding thing!
 
-*P.S. - Yes, I know there are probably a million password generators out there, but building your own stuff is half the fun of programming, right?*
+
